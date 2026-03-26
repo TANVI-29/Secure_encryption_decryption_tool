@@ -188,7 +188,7 @@ pydantic_core
 pydeck
 pydot
 pydyf
-pygame
+
 PyGetWindow
 Pygments
 PyJWT
