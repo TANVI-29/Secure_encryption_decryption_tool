@@ -38,7 +38,7 @@ configparser
 contourpy
 cryptography
 cssselect2
-customtkinter
+
 cycler
 cymem
 darkdetect
@@ -179,7 +179,7 @@ pyarrow
 pyasn1
 pyasn1_modules
 PyAudio
-PyAutoGUI
+
 pycares
 pycparser
 pycryptodome
