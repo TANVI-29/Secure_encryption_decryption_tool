@@ -215,7 +215,7 @@ python-multipart
 pyttsx3
 pytweening
 pytz
-pywin32
+
 pyxnat
 PyYAML
 pyzmq
