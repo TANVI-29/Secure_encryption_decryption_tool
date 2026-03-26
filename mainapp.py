@@ -101,7 +101,7 @@ class SecureApp(ctk.CTk):
         for text, cmd in [
             ("Encrypt File", self.show_encrypt),
             ("Decrypt File", self.show_decrypt),
-            ("Settings", self.show_settings),
+            # ("Settings", self.show_settings),
             ("About", self.show_about),
         ]:
             ctk.CTkButton(self.sidebar, text=text, command=cmd).pack(
